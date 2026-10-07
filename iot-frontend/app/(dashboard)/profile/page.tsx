@@ -137,7 +137,7 @@ export default function ProfilePage() {
       </div>
 
       {editing ? (
-        {/* Edit Form */}
+        /* Edit Form */
         <form
           onSubmit={handleSaveProfile}
           className="card"
@@ -219,7 +219,7 @@ export default function ProfilePage() {
           </div>
         </form>
       ) : (
-        {/* Profile Card */}
+        /* Profile Card */
         <div
           className="card"
           style={{
