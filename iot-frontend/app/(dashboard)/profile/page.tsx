@@ -22,7 +22,7 @@ export default function ProfilePage() {
     username: 'admin',
     full_name: 'Trần Văn Đức',
     student_id: 'B23DCCN191',
-    class_name: 'D23CQCN01-B',
+    class_name: 'D23CNPM04',
     figma_link: 'https://figma.com',
     github_link: 'https://github.com/trducc/iot-dashboard-system',
     postman_link: 'http://localhost:3001/api/docs',
@@ -36,7 +36,7 @@ export default function ProfilePage() {
   const [form, setForm] = useState({
     full_name:    'Trần Văn Đức',
     student_id:   'B23DCCN191',
-    class_name:   'D23CQCN01-B',
+    class_name:   'D23CNPM04',
     figma_link:   'https://figma.com',
     github_link:  'https://github.com/trducc/iot-dashboard-system',
     postman_link: 'http://localhost:3001/api/docs',
