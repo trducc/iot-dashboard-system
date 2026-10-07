@@ -24,7 +24,7 @@ export default function ProfilePage() {
     student_id: 'B23DCCN191',
     class_name: 'D23CQCN01-B',
     figma_link: 'https://figma.com',
-    github_link: 'https://github.com',
+    github_link: 'https://github.com/trducc/iot-dashboard-system',
     postman_link: 'http://localhost:3001/api/docs',
     pdf_link: 'https://drive.google.com',
   });
@@ -38,7 +38,7 @@ export default function ProfilePage() {
     student_id:   'B23DCCN191',
     class_name:   'D23CQCN01-B',
     figma_link:   'https://figma.com',
-    github_link:  'https://github.com',
+    github_link:  'https://github.com/trducc/iot-dashboard-system',
     postman_link: 'http://localhost:3001/api/docs',
     pdf_link:     'https://drive.google.com',
   });
